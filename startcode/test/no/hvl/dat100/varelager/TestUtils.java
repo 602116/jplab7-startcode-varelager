@@ -1,4 +1,4 @@
-package no.hvl.dat100.varelager.tests;
+package no.hvl.dat100.varelager;
 
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -7,8 +7,6 @@ import java.util.Arrays;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import no.hvl.dat100.varelager.Vare;
-import no.hvl.dat100.varelager.VarelagerUtils;
 
 class TestUtils {
 

@@ -1,10 +1,9 @@
-package no.hvl.dat100.varelager.tests;
+package no.hvl.dat100.varelager;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import no.hvl.dat100.varelager.*;
 
 class TestVarelager {
 

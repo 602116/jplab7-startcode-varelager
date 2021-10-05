@@ -1,7 +1,4 @@
-package no.hvl.dat100.varelager.tests;
-
-import no.hvl.dat100.varelager.Varelager;
-import no.hvl.dat100.varelager.Vare;
+package no.hvl.dat100.varelager;
 
 public class TVarelager extends Varelager {
 
